@@ -1,0 +1,1 @@
+﻿INSERT INTO ClassNo_14 (id, name, phone, address) VALUES (4, 'TOM', '0918', 'Taiwan');
