@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">No:14_Databases(I/O)</string>
+    <string name="xml_id">Id：</string>
+    <string name="xml_id_hint">請輸入 Id 資料</string>
+    <string name="xml_name">Name：</string>
+    <string name="xml_name_hint">請輸入姓名</string>
+    <string name="xml_phone">Phone：</string>
+    <string name="xml_phone_hint">請輸入電話號碼</string>
+    <string name="xml_address">Address：</string>
+    <string name="xml_address_hint">請輸入地址資料</string>
+    <string name="xml_add">新增</string>
+    <string name="xml_update">修改</string>
+    <string name="xml_delete">刪除</string>
+    <string name="xml_query">查詢</string>
+    <string name="xml_previous">上一筆</string>
+    <string name="xml_next">下一筆</string>
+    <string name="MainActivity_add">新增 </string>
+    <string name="MainActivity_count"> 筆資料！</string>
+    <string name="MainActivity_update">修改 </string>
+    <string name="MainActivity_delete">刪除 </string>
+    <string name="MainActivity_First">已到第一筆資料！</string>
+    <string name="MainActivity_Last">已到最後一筆資料！</string>
+</resources>
